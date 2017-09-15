@@ -29,7 +29,7 @@
 </fieldset>
 
 <fieldset>
-<legend>관심분야선택</legend>
+<legend>관심 분야 선택</legend>
 <input type="radio" name="gender" value="HTML5">HTML5 시맨틱
 <input type="radio" name="gender" value="CSS3">CSS3
 <input type="radio" name="gender" value="Web Storage">Web Storage
@@ -55,9 +55,9 @@
 남길말씀
 <textarea name="feedback" rows="5" cols="50"></textarea>
 
+<br>
 <input type="submit" value="접수하기">
 <input type="reset" value="다시쓰기">
-<br>
 
 </form>
 </body>
