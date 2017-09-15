@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form>
+
+<div style="border:1px solid black;">
+<h3> 세미나 정보 </h3>
+<ol>
+  <li>주제: 차세대 웹 표준 기술HTML</li>
+  <li>일정: 5월12일 14:00~17:00</li>
+  <li>장소: 공학관 2층 세미나실</li>
+  <li>인원: 선착순 100명</li>
+  <li>비용: 본교 학생 무료 (외부 참가자 5,000원)</li>
+  <li>참가신청: 아래 양식에 빠짐없이 기입하여 접수해 주세요</li>
+</ol>
+</div>
+
+
+<h3>개인 정보</h3>
+이름: <input type="text" name="input"/>
+비밀번호: <input type="password" name="pass"/> (수정시필요)
+
+<h3>참가 정보</h3>
+
+<div style="border:1px solid black;">
+참가 유형 선택
+<input type="radio" name="gender" value="free">무료(교내참가자)
+<input type="radio" name="gender" value="charge">유료(교외참가자)
+</div>
+
+<div style="border:1px solid black;">
+관심분야선택
+<input type="radio" name="gender" value="HTML5">HTML5 시맨틱
+<input type="radio" name="gender" value="CSS3">CSS3
+<input type="radio" name="gender" value="Web Storage">Web Storage
+<input type="radio" name="gender" value="Web Socket">Web Socket
+<input type="radio" name="gender" value="Canvas">Canvas
+<input type="radio" name="gender" value="Geolocation">Geolocation
+</div>
+
+<h3>선택 사항</h3>
+
+직업
+<select name="job">
+<option value="na">가까운분야선택</option>
+<option value="student">학생</option>
+<option value="web development">웹개발</option>
+<option value="web design">웹디자인</option>
+<option value="education">교육관련</option>
+<option value="etc">기타</option>
+</select>
+
+남길말씀
+<textarea name="feedback" rows="5" cols="50"></textarea>
+
+<input type="submit" value="접수하기">
+<input type="reset" value="다시쓰기">
+
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
