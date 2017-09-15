@@ -5,12 +5,34 @@
 <div style="border:3px solid red;">
   <h2>안녕하세요</h2>
   <p>
-   hello everyone
-   
+   hello everyone  
    <span style="color:red;"> Nice to meet you </span>
-   
    </p>
-  </div>
-  </body>
-  </html>
+</div>
+  
+  <form action="input.jsp" method="post">
+
+    <input type="email" name="email" /><br/>     
+    <input type="url" name="url" /><br/>    
+    <input type="tel" name="tel" /><br/>    
+    
+    <input type="color" name="color" /><br/>   
+    <input type="month" name="month" /><br/>    
+    <input type="date" name="date" /><br/>    
+    <input type="month" name="week" /><br/>    
+    <input type="time" name="time" /><br/> 
+   
+    <input type="datetime-local" name="localdatetime" /><br/>  
+    <input type="number" name="number" min="1" max="10" step="2"/><br/>
+    <input type="range" name="range" min="1" max="10" step="2" /><br/>     
+    <input type="submit" value="제출" />     
+    <input type="button" onclick="alert('제출하시겠습니까?')">눌러보세요!</button>
+    <input type="text" name="user"> <br />     
+    <input type="reset" value="초기화"> 
+    <input type="button" onclick="alert('초기화하시겠습니까?')">눌러보세요!</button>
+  
+    </form> 
+  
+</body>
+</html>
   
