@@ -17,7 +17,7 @@
 
 
 <h3>개인 정보</h3>
-이름: <input type="text" name="input"/></br>
+이름: <input type="text" name="input"/><br>
 비밀번호: <input type="password" name="pass"/> (수정시필요)
 
 <h3>참가 정보</h3>
@@ -49,14 +49,14 @@
 <option value="education">교육관련</option>
 <option value="etc">기타</option>
 </select>
-</br>
+<br>
 
 남길말씀
 <textarea name="feedback" rows="5" cols="50"></textarea>
 
 <input type="submit" value="접수하기">
 <input type="reset" value="다시쓰기">
-</br>
+<br>
 
 </form>
 </body>
