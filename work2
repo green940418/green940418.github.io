@@ -22,21 +22,22 @@
 
 <h3>참가 정보</h3>
 
-참가 유형 선택
-<div style="border:1px solid black;">
+<fieldset>
+<legend>참가 유형 선택</legend>
 <input type="radio" name="gender" value="free">무료(교내참가자)
 <input type="radio" name="gender" value="charge">유료(교외참가자)
-</div>
+</fieldset>
 
-관심분야선택
-<div style="border:1px solid black;">
+<fieldset>
+<legend>관심분야선택</legend>
 <input type="radio" name="gender" value="HTML5">HTML5 시맨틱
 <input type="radio" name="gender" value="CSS3">CSS3
 <input type="radio" name="gender" value="Web Storage">Web Storage
 <input type="radio" name="gender" value="Web Socket">Web Socket
 <input type="radio" name="gender" value="Canvas">Canvas
 <input type="radio" name="gender" value="Geolocation">Geolocation
-</div>
+</fieldset>
+
 
 <h3>선택 사항</h3>
 
