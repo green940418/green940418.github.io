@@ -17,19 +17,19 @@
 
 
 <h3>개인 정보</h3>
-이름: <input type="text" name="input"/>
+이름: <input type="text" name="input"/></br>
 비밀번호: <input type="password" name="pass"/> (수정시필요)
 
 <h3>참가 정보</h3>
 
-<div style="border:1px solid black;">
 참가 유형 선택
+<div style="border:1px solid black;">
 <input type="radio" name="gender" value="free">무료(교내참가자)
 <input type="radio" name="gender" value="charge">유료(교외참가자)
 </div>
 
-<div style="border:1px solid black;">
 관심분야선택
+<div style="border:1px solid black;">
 <input type="radio" name="gender" value="HTML5">HTML5 시맨틱
 <input type="radio" name="gender" value="CSS3">CSS3
 <input type="radio" name="gender" value="Web Storage">Web Storage
@@ -49,12 +49,14 @@
 <option value="education">교육관련</option>
 <option value="etc">기타</option>
 </select>
+</br>
 
 남길말씀
 <textarea name="feedback" rows="5" cols="50"></textarea>
 
 <input type="submit" value="접수하기">
 <input type="reset" value="다시쓰기">
+</br>
 
 </form>
 </body>
