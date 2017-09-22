@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>
-<style>
-#special{background-color: yellow; color: red}
-</style>
-</title>
-</head>
-<body>
-<p id="special"> id is special in pink </p>
+  <head>
+    <title>
+      <style>
+                #special{background-color: yellow; color: red}
+      </style>
+    </title>
+  </head>
+  <body>
+                 <p id="special"> id is special in yellow </p>
 
-</body>
+  </body>
 </html>
