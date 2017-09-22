@@ -5,9 +5,9 @@
     </head>
     <style>
         li{display: inline;background-color:black;}
-        a:link{text-decoration:None; color: grey; background-color:black;}
-        a:visited{text-decoration:None; color: grey; background-color:black;}
-        a:hover{text-decoration:None; color: white; background-color:black;}
+        a:link{text-decoration:None; color: grey; }
+        a:visited{text-decoration:None; color: grey; }
+        a:hover{text-decoration:None; color: white; }
         
     </style>
     <body>
