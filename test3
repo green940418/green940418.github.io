@@ -7,7 +7,7 @@
                 #special{background-color: yellow; color: indigo;}
                 .target{text-align:center; font-weight:italic; text-transform:capitalize;}
                 p[class="option"]{color:blue; text-decoration:underline;}
-                p.text{ font-size: 20pt; background-color:rgb(100,8,20);  font-style:"Georgia";text-align:rignt;}
+                p.text{ font-size: 20pt; background-color:rgb(100,8,20);  font-style:"courier";text-align:rignt;}
       </style>
 
   </head>
