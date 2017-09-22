@@ -12,7 +12,7 @@
     </style>
     <body>
     
-        <ul>
+        <ul style="background-color:black">
         <li><a href="https://myaccount.google.com/intro?utm_source=OGB&utm_medium=app">+누구?</a></li>
         <li><a href="https://www.google.co.kr/webhp?tab=ww">검색</a></li>
         <li><a href="https://www.google.co.kr/imghp?hl=ko&tab=wi">이미지</a></li>
