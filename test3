@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
+<head>
 <title>
 <style>
 #special{background-color: pink; color= black}
 </style>
 </title>
+</head>
 <body>
 <p id="special"> id is special in pink </p>
 
