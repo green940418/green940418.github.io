@@ -3,7 +3,7 @@
 <head>
 <title>
 <style>
-#special{background-color: yellow; color= black}
+#special{background-color: yellow; color: red}
 </style>
 </title>
 </head>
