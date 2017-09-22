@@ -6,23 +6,23 @@
     <style>
         li{display: inline;}
         a:link{text-decoration:None; color: grey; background-color:black;}
-        a:visited{text-decoration:None; color: red; background-color:black;}
+        a:visited{text-decoration:None; color: grey; background-color:black;}
         a:hover{text-decoration:None; color: white; background-color:black;}
         
     </style>
     <body>
     
         <ul>
-        <li>+누구?</li>
-        <li>검색</li>
-        <li>이미지</li>
-        <li>지도</li>
-        <li>Play</li>
-        <li>YouTube</li>
-        <li>뉴스</li>
-        <li>Gmail</li>
-        <li>드라이브</li>
-        <li>캘린더</li>
+        <li><a href="https://myaccount.google.com/intro?utm_source=OGB&utm_medium=app">+누구?</a></li>
+        <li><a href="https://www.google.co.kr/webhp?tab=ww">검색</a></li>
+        <li><a href="https://www.google.co.kr/imghp?hl=ko&tab=wi">이미지</a></li>
+        <li><a href="https://www.google.co.kr/maps?hl=ko&tab=wl">지도</a></li>
+        <li><a href="https://play.google.com/store?hl=ko&tab=n8">Play</a></li>
+        <li><a href="https://www.youtube.com/?gl=KR">YouTube</a></li>
+        <li><a href="https://news.google.com/news/headlines?hl=ko&ned=kr">뉴스</a></li>
+        <li><a href="https://www.google.com/intl/ko/gmail/about/#">Gmail</a></li>
+        <li><a href="https://www.google.com/intl/ko/drive/">드라이브</a></li>
+        <li><a href="https://accounts.google.com/signin/v2/identifier?service=cl&passive=1209600&osid=1&continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender%3Ftab%3Dic&followup=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Frender%3Ftab%3Dic&scc=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin">캘린더</a></li>
         </ul>
     </body>
 </html>
