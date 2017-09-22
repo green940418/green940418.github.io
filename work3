@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     </head>
     <style>
-        li{display: inline;background-color:black;}
+        li{display: inline;background-color:black; margin-right:5px}
         a:link{text-decoration:None; color: grey; }
         a:visited{text-decoration:None; color: grey; }
         a:hover{text-decoration:None; color: white; }
