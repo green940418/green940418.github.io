@@ -3,9 +3,10 @@
   <head>
 
       <style>
-              h1 {color:red;}
+                h1 {color:red;}
                 #special{background-color: yellow; color: red;}
                 .target{text-align:center;}
+                p[class="option"]{color:blue;}
       </style>
 
   </head>
@@ -14,6 +15,7 @@
                  <p id="special"> id is special in yellow </p>
                  <p class="target"> class is center... </p>
                  <h2 class="target"> another class is center... </p>
+                 <p class="option"> Welcome to blue house</p>
 
   </body>
 </html>
