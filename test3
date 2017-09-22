@@ -3,10 +3,11 @@
   <head>
 
       <style>
-                h1 {color:red;}
-                #special{background-color: yellow; color: red;}
-                .target{text-align:center;}
-                p[class="option"]{color:blue;}
+                h1 {color:red;font-weight:bold;text-shadow:5px 5px 10px #FF0120}
+                #special{background-color: yellow; color: indigo;}
+                .target{text-align:center; font-weight:italic; text-transform:capitalize;}
+                p[class="option"]{color:blue; text-decoration:underline;}
+                p.text{ font-size: 20pt; background-color:rgb(100,8,20);  font-style:"Times New Roman";}
       </style>
 
   </head>
