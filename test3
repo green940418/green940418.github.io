@@ -3,13 +3,17 @@
   <head>
 
       <style>
+              h1 {color:red;}
                 #special{background-color: yellow; color: red;}
+                .target{text-align:center;}
       </style>
 
   </head>
   <body>
+                 <h1>타입선택자- 빨간색글씨</h1>
                  <p id="special"> id is special in yellow </p>
-                 <p> 정상적단락입니다. </p>
+                 <p class="target"> class is center... </p>
+                 <h2 class="target"> another class is center... </p>
 
   </body>
 </html>
