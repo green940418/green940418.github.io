@@ -7,7 +7,7 @@
                 #special{background-color: yellow; color: indigo;}
                 .target{text-align:center; font-weight:italic; text-transform:capitalize;}
                 p[class="option"]{color:blue; text-decoration:underline;}
-                p.text{ font-size: 20pt; background-color:rgb(100,8,20);  font-style:"Times New Roman";}
+                p.text{ font-size: 20pt; background-color:rgb(100,8,20);  font-style:"Georgia";}
       </style>
 
   </head>
@@ -17,6 +17,7 @@
                  <p class="target"> class is center... </p>
                  <h2 class="target"> another class is center... </p>
                  <p class="option"> Welcome to blue house</p>
+                 <p class="text">안녕하세요.나는무슨색이죠?</p>
 
   </body>
 </html>
