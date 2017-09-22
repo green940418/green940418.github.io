@@ -3,12 +3,13 @@
   <head>
     <title>
       <style>
-                #special{background-color: yellow; color: red}
+                #special{background-color: yellow; color: red;}
       </style>
     </title>
   </head>
   <body>
                  <p id="special"> id is special in yellow </p>
+                 <p>정상적단락입니다.</p>
 
   </body>
 </html>
