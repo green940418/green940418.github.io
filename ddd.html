@@ -3,19 +3,22 @@
   <body> 
     <form>
       e-mail <input type="email"><br>
-      phone number <input type="text" name="number" size=11><br>
-      calendar <input type="month" namei="month"><br>
+      phone number <input type="text" name="number" size="11"><br>
+      calendar <input type="date" name="date"><br>
       time <input type="time" name="time"><br>
-      range <input type="range" min="1" max="10" step="2" value="2"><br>
-      number<input type="number" name="number" min="3" max="15">
-      gender <input type="radio" value="male">male<br>
-             <input type="radio" value="female">female<br>
+      range <input type="range" min="1" max="10" step="2" value="5"><br>
+      number<input type="number" name="number" min="3" max="15" step="3"><br>
+      gender <input type="radio" name="gender" value="male">male<br>
+             <input type="radio" name="gender" value="female">female<br>
       check <input type="checkbox" value="apple">apple<br>
              <input type="checkbox" value="orange" checked>orange<br>
              <input type="checkbox" value="watermelon">melon<br>
              <input type="submit" value="submit"><br>
       <input type="reset" value="reset"><br>
-      
+      <label for="male">남</label>
+      <input type "radio" name="gender" id="male" value="male"><br>
+      <label for="female">여</label>      
+      <input type "radio" name="gender" id="female" value="female"><br>
     </form>  
 
     
