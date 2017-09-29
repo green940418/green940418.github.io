@@ -6,6 +6,7 @@
   #target2{width:20px;height:30px;}
   p{width:100px;height:30px;background-color:green;left:50px}
   #two{width:100px;height:30px;position:relative;background-color:blue;left:50px}
+  #three{width:100px;height:30px;position:relative;background-color:yellow;left:50px}
   </style>
 </head>
 <body>
@@ -13,5 +14,6 @@
   <div id="target2">2222222222222222222222222222222222222222222222222222222222222</div>
   <p>box1</p>
   <p id="two">box2</p>
+  <p id="three">box3</p>
 </body>
 </html>
