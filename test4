@@ -2,15 +2,15 @@
 <html>
 <head>
   <style>
-  #target1{width:100px;height:50px;}
-  #target2{width:200px;height:30px;}
-  p{width:100px;height:30px;background-color:green;}
-  #two{width:100px;height:30px;position:relative;background-color:blue;}
+  #target1{width:10px;height:50px;}
+  #target2{width:20px;height:30px;}
+  p{width:100px;height:30px;background-color:green;left:50px}
+  #two{width:100px;height:30px;position:relative;background-color:blue;left:50px}
   </style>
 </head>
 <body>
   <h1 id="target1">1111111111111111111111111111111111111111111111111111111111111</h1>
-  <div id="target2">22222222222222222222222222222222222222222222222222222222222</div>
+  <div id="target2">2222222222222222222222222222222222222222222222222222222222222</div>
   <p>box1</p>
   <p id="two">box2</p>
 </body>
